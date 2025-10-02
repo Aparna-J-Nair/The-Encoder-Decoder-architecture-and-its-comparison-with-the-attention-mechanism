@@ -1,0 +1,1 @@
+# The-Encoder-Decoder-architecture-and-its-comparison-with-the-attention-mechanism
